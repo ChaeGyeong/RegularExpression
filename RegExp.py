@@ -1,4 +1,4 @@
-import re
+import re 
 
 # 문자열에서 패턴 찾기
 pattern = r'apple'
